@@ -6,4 +6,4 @@
 ### 👨‍💻   Research Interests: Deep Learning, Data Science, Computer Vision, Fintech
 ### 📄   Check out my [Resume](https://l.linklyhq.com/l/1QSJl)  
 ### 📷   My hobbies include Photography, Table Tennis, and Formula 1
-### 📄   Check out my projects  
+### 📄   Check out my [projects](https://github.com/akhil-awari/Akhil_Github)  
